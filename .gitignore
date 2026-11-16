@@ -115,5 +115,7 @@ InitTestScene*.unity*
 
 .vscode
 
-MyIgnoreFolder
 .DS_Store
+
+MyIgnoreFolder
+MyIgnoreFolder.meta
