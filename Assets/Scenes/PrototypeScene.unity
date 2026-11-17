@@ -417,8 +417,7 @@ MonoBehaviour:
   beam: {fileID: 1495053981}
   beamSprite: {fileID: 1874639976}
   degPerSec: 60
-  maxAlpha: 0.45
-  depthSorting: 1
+  transparency: 0.45
   frontOrder: 4
   backOrder: 0
 --- !u!4 &354497580
